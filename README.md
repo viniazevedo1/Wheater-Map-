@@ -15,7 +15,8 @@ Whether users need to check the weather before heading out for the day or plan t
 
 ## Preview
 
-![Project Preview](wheatermap.jpg)
-![Project Preview](wheater2.jpg)
+![Weather Preview 1](wheater2.png)
+
+![Weather Preview 2](wheatermap.png)
 
 
